@@ -54,7 +54,7 @@ dependencies {
     def materialComponentsVersion = '1.3.0'
     def roomVersion = '2.2.5'
     def fragmentVersion = '1.2.5'
-    def lifecycleVersion = '2.2.0'
+    def lifecycleVersion = '2.3.0'
     def paletteKtxVersion = '1.0.0'
 
     // Networking
